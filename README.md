@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="branding/a3v-lockup-horizontal-reversed.svg">
+    <img src="branding/a3v-lockup-horizontal.svg" alt="A3V" width="360">
+  </picture>
+</p>
+
 <h1 align="center">A3V releases</h1>
 
 <p align="center">
